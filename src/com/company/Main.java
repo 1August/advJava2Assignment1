@@ -10,6 +10,12 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
+        // TODO: 1/14/2022
+        /**
+        ⬜   Penguin can't fly, but extended Bird, that implemented IFlyable
+        ⬜   Turtle, penguin can swim, but Animal(turtle extended), Bird(penguin extended) are not implement ISwimable
+         */
+
         Animal tiger = new Tiger();
         tiger.setSize(5);
 
