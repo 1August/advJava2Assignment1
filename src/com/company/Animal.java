@@ -13,4 +13,11 @@ public abstract class Animal implements IMovable, IWalkable {
     public void setSize(int size) {
         this.size = size;
     }
+
+    @Override
+    public String toString() {
+        return "Animal{" +
+                "size=" + size +
+                '}';
+    }
 }
