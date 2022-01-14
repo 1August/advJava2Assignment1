@@ -1,6 +1,6 @@
 package com.company.genericTypes;
 
-import com.company.Animal;
+import com.company.abstractClasses.Animal;
 import com.company.interfaces.IFlyable;
 
 import java.util.ArrayList;

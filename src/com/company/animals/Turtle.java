@@ -1,6 +1,6 @@
 package com.company.animals;
 
-import com.company.Animal;
+import com.company.abstractClasses.Animal;
 
 public class Turtle extends Animal {
 

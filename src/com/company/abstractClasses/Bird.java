@@ -1,6 +1,5 @@
 package com.company.abstractClasses;
 
-import com.company.Animal;
 import com.company.interfaces.IFlyable;
 import com.company.interfaces.IWalkable;
 

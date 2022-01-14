@@ -1,6 +1,6 @@
 package com.company.genericTypes;
 
-import com.company.Animal;
+import com.company.abstractClasses.Animal;
 import com.company.abstractClasses.Bird;
 import com.company.animals.Penguin;
 import com.company.interfaces.IWalkable;

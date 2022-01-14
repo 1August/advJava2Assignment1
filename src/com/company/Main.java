@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.abstractClasses.Animal;
 import com.company.animals.Crow;
 import com.company.animals.Penguin;
 import com.company.animals.Shark;

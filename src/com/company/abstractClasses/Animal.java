@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abstractClasses;
 
 import com.company.interfaces.IMovable;
 import com.company.interfaces.IWalkable;
